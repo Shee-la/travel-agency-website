@@ -1,0 +1,14 @@
+
+body{
+margin:15px;
+}
+h1{
+text-align:center;
+color:pink;
+}
+p{
+color:darkblue;
+text-align:justify;
+font-size: 18px;
+font-family: "Comic Sans MS", sans-serif;
+}
