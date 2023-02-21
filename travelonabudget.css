@@ -2,10 +2,19 @@
 body{
 margin:15px;
 }
+a{
+
+   color: blue;
+}
 h1{
 text-align:center;
 color:pink;
 }
+h2 {
+   text-align:center;
+   color:PURPLE; 
+}
+
 p{
 color:PURPLE;
 text-align:justify;
